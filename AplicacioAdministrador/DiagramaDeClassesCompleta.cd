@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AplicacioAdministrador.Form1">
+    <Position X="18.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Altes.frmAltaMenu">
+    <Position X="21.25" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAJIAAADADEEBQIQWjAQAnRIAAQiABCAgUAAAAAgA=</HashCode>
+      <FileName>Formularis\Altes\frmAltaMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Altes.frmAltaProducte">
+    <Position X="21.75" Y="19.25" Width="2.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" ManuallyRouted="true">
+      <Path>
+        <Point X="19.75" Y="22.688" />
+        <Point X="21.75" Y="22.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAACQDAAEABAAkCAAQAXQCAEAIQAgAAjCAIAAAA=</HashCode>
+      <FileName>Formularis\Altes\frmAltaProducte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Login.frmLogin">
+    <Position X="7.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACggAEAAAgCAAACHIAEACUAAAAAAAABQAAA=</HashCode>
+      <FileName>Formularis\Login\frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Modificar.frmModificarMenu">
+    <Position X="7.75" Y="9" Width="3" />
+    <TypeIdentifier>
+      <HashCode>g4AAJAgICKATEABQJQWjARAvDIBAQiABCQh0AAAAAgg=</HashCode>
+      <FileName>Formularis\Modificar\frmModificarMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Modificar.frmModificarProducte">
+    <Position X="21.75" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>A0AABAAKAjCQMEBBAgCAABAvAKBAAAQAgABiCAAAAAQ=</HashCode>
+      <FileName>Formularis\Modificar\frmModificarProducte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Principal.frmInformacióRestaurant">
+    <Position X="7.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Formularis\Principal\frmInformacióRestaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Formularis.Principal.frmPrincipal">
+    <Position X="12.25" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABQASCBAAABAAkiCAACTAABAAAIABIAAIAEUAIA=</HashCode>
+      <FileName>Formularis\Principal\frmPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.cEngine">
+    <Position X="0.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAQAAABAAAIAAIEgAAAAAgAAgACAAAAgAQBIA=</HashCode>
+      <FileName>Nucli\cEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.cMenu">
+    <Position X="4" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IyAAAAAAAAAAAEAAoAQCAAAAEAACAAQIhEAAAAAAUAA=</HashCode>
+      <FileName>Nucli\cMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.cMySql">
+    <Position X="0.5" Y="10.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>IABwAAAAWEAQAAAIACAAGCABCFQQAAIEAAAACAAoAQA=</HashCode>
+      <FileName>Nucli\cMySql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.cProducte">
+    <Position X="4.75" Y="10.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACgACAAgAIAoACACkAAAAQAIAAKAAAAAAIACAA=</HashCode>
+      <FileName>Nucli\cProducte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.cSystem">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAACAAQAAAAICAAEBAACFAQAAAMAAgAAAAwAAA=</HashCode>
+      <FileName>Nucli\cSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Nucli.Program">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Nucli\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Properties.Resources">
+    <Position X="3" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAABAABkAAIAQABAABAAAAAAACAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AplicacioAdministrador.Properties.Settings">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="15.5" Y="4.5" Width="4.25" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

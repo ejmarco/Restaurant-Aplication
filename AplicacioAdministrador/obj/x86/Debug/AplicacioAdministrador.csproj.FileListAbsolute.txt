@@ -1,0 +1,17 @@
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Login.frmLogin.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Principal.frmPrincipal.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Properties.Resources.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\bin\Debug\AplicacioAdministrador.exe
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\bin\Debug\AplicacioAdministrador.pdb
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.exe
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.pdb
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Altes.frmAltaMenu.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Altes.frmAltaProducte.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Modificar.frmModificarProducte.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Modificar.frmModificarMenu.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.Formularis.Principal.frmInformacióRestaurant.resources
+C:\Users\Oriol\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.exe
+C:\Users\Oriol\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Debug\AplicacioAdministrador.pdb

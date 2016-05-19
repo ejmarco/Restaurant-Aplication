@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EEBF59EB-BA7E-4B4B-82F6-B36FF621560F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AplicacioAdministrador</RootNamespace>
+    <AssemblyName>AplicacioAdministrador</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>AplicacioAdministrador.Nucli.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.3.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.3.7\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Altes\frmAltaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Altes\frmAltaMenu.Designer.cs">
+      <DependentUpon>frmAltaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Altes\frmAltaProducte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Altes\frmAltaProducte.Designer.cs">
+      <DependentUpon>frmAltaProducte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Modificar\frmModificarMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Modificar\frmModificarMenu.Designer.cs">
+      <DependentUpon>frmModificarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Modificar\frmModificarProducte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Modificar\frmModificarProducte.Designer.cs">
+      <DependentUpon>frmModificarProducte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Principal\frmInformacióRestaurant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Principal\frmInformacióRestaurant.Designer.cs">
+      <DependentUpon>frmInformacióRestaurant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularis\Principal\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularis\Principal\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nucli\cEngine.cs" />
+    <Compile Include="Nucli\cMenu.cs" />
+    <Compile Include="Nucli\cMySql.cs" />
+    <Compile Include="Nucli\cProducte.cs" />
+    <Compile Include="Nucli\cSystem.cs" />
+    <Compile Include="Nucli\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularis\Altes\frmAltaMenu.resx">
+      <DependentUpon>frmAltaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Altes\frmAltaProducte.resx">
+      <DependentUpon>frmAltaProducte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Modificar\frmModificarMenu.resx">
+      <DependentUpon>frmModificarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Modificar\frmModificarProducte.resx">
+      <DependentUpon>frmModificarProducte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Principal\frmInformacióRestaurant.resx">
+      <DependentUpon>frmInformacióRestaurant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularis\Principal\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DiagramaDeClassesCompleta.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fcb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICOProducte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImgProducte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Garbage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImgMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unview.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

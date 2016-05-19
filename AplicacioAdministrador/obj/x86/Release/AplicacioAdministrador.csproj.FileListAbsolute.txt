@@ -1,0 +1,15 @@
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\bin\Release\AplicacioAdministrador.exe
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\bin\Release\AplicacioAdministrador.pdb
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Altes.frmAltaMenu.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Altes.frmAltaProducte.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Login.frmLogin.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Principal.frmPrincipal.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Properties.Resources.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.exe
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.pdb
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Modificar.frmModificarMenu.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Modificar.frmModificarProducte.resources
+C:\Users\Erikkk\Dropbox\Sintesi\General\AplicacioEscriptoriAdministrador\AplicacioAdministrador\AplicacioAdministrador\obj\x86\Release\AplicacioAdministrador.Formularis.Principal.frmInformacióRestaurant.resources
